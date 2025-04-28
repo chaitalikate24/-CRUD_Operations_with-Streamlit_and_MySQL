@@ -12,8 +12,9 @@ Update any record by ID
 Delete a record by ID
 
 
-Technologies Used
-Python 3
+Technologies Used : 
+
+Python 
 
 Streamlit (for the frontend user interface)
 
