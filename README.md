@@ -14,10 +14,10 @@ The app allows users to:
 
 Technologies Used : 
 
-                   Python 
+	Python 
 
-                   Streamlit (for the frontend user interface)
+	Streamlit (for the frontend user interface)
 
-                   MySQL (for data storage)
+	MySQL (for data storage)
 
-                   MySQL Connector/Python (for database interaction)
+	MySQL Connector/Python (for database interaction)
