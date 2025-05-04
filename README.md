@@ -3,13 +3,13 @@ Web application built using Streamlit as the frontend and MySQL as the backend d
 
 The app allows users to:
 
-Create new records (name and email)
+                  Create new records (name and email)
 
-Read and display all existing records
+                  Read and display all existing records
 
-Update any record by ID
+									Update any record by ID
 
-Delete a record by ID
+									Delete a record by ID
 
 
 Technologies Used : 
